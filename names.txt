@@ -1,2 +1,2 @@
-boss,NetID,LastName,FirstName
+boss,gbruhn,Bruhn,Gretchen
 employee,kgelden,Gelden,Kelsey
